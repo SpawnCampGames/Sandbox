@@ -8,9 +8,9 @@ A pre-configured Unity project with code, tools, and materials designed to be a 
 - URP 3D* Version (Universal Render Pipeline)
 
 ## Scenes
-- Sandbox  
+- **Sandbox**  
   A visually welcoming test scene with extra tools and effects to start prototyping like a pro.
-- SandboxLite**  
+- **SandboxLite****  
   A bare-bones test scene with only lights, a camera, and a floor. Giving you plenty of space to prototype.
 
 <sub>* Unity 2D Package also included.</sub>  
