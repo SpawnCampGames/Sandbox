@@ -17,8 +17,8 @@ A pre-configured Unity project with code, tools, and materials included. With, b
   A bare-bones test scene with only lights, a camera, and a floor. Giving you plenty of space to prototype.
 
 ## Project Dependencies 📁
-Our project aims to be small and simple but Third-Party (Unity Asset Store) assets *are* supplemented to provide basic tools and a bit of wow-factor.  
-**Note** that none of the Third-Party assets are required to use this project (ie. the SandboxLite scene).  
+Our project aims to be small and simple **but** Third-Party (Unity Asset Store) assets *are* supplemented to provide basic tools and a bit of wow-factor.  
+#### Note that none of the Third-Party assets are required to use this project (ie. the SandboxLite scene).  
 However, if you wish, I made sure to only chose **Free** assets.
 
 ### Unity / Built-In
