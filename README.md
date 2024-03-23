@@ -1,3 +1,5 @@
+![SpawnCamp Sandbox](https://github.com/SpawnCampGames/Sandbox/blob/main/SandboxBanner.png)
+
 # Official SpawnCamp Sandbox 🚧📻
 A pre-configured Unity project with code, tools, and materials included. With, basically empty, test scenes designed to be a fun and easy starting point for learning and prototyping within the engine.
 > beta 0.1.0
